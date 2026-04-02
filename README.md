@@ -1,5 +1,7 @@
+![预览](ptdr.png)
+
 # PTDR
-这是一个失真插件，0延迟，且cpu开销极小。这个插件用于拟合protools的未知summing带来的独特失真。
+这是一个失真插件，0延迟，且cpu开销极小。这个插件用于拟合protools的未知summing带来的独特失真。以及独特的禅意ui设计。
 
 曾用名：protools风味失真
 
@@ -30,7 +32,7 @@
 ***
 
 # PTDR
-This is a distortion plugin with zero latency and extremely low cpu overhead. This plugin is used to fit the unique distortion caused by the unknown summing of protools.
+This is a distortion plugin with zero latency and extremely low cpu overhead. This plugin is used to fit the unique distortion caused by the unknown summing of protools, with a unique Zen-inspired ui design.
 
 Former name: protools Flavor Distortion
 
