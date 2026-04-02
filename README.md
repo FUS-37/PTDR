@@ -59,5 +59,5 @@ But this mysterious little distortion is indeed quite amusing. The final distort
 Perhaps the human ear does indeed prefer things that are somewhat distorted rather than those that are exquisite.
 
 # 赞助
-![赞助]("./sk.jpg")
+![赞助](sk.jpg)
 
