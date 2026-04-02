@@ -58,3 +58,6 @@ I think I need to state that I don't care about such a tiny bit of distortion. I
 But this mysterious little distortion is indeed quite amusing. The final distortion, when played on the speaker, is roughly the same as the background noise in the bedroom. Especially when listened to at night, it does bring about some "Is it daytime?" Such a wonderful feeling.
 Perhaps the human ear does indeed prefer things that are somewhat distorted rather than those that are exquisite.
 
+# 赞助
+![赞助]("./sk.jpg")
+
