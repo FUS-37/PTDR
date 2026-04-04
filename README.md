@@ -6,8 +6,17 @@
 曾用名：protools风味失真
 
 # 下载与安装
+点击[release](https://github.com/FUS-37/PTDR/releases/tag/1.0.0)，下载PTDR.vst3.zip并解压缩。将得到的PTDR.vst3复制到 `C:\Program Files\Common Files\VST3` 目录下。
 
-下载PTDR.vst3.zip并解压缩。将得到的PTDR.vst3复制到 `C:\Program Files\Common Files\VST3` 目录下。
+# 编译与构建
+
+由于我的电脑只有windows系统，如果你需要其他系统的vst插件，可以考虑自行编译。
+
+1. 配置开发环境
+
+你需要查看iplug2的官方文档：[macos](https://github.com/iPlug2/iPlug2/wiki/01_Getting_started_mac_ios) / [windows](https://github.com/iPlug2/iPlug2/wiki/02_Getting_started_windows)
+
+2. 下载源代码，自行编译
 
 # 插件使用方法
 目前这个插件是4个模式，bypass / soft / flat / harsh
@@ -38,7 +47,17 @@ Former name: protools Flavor Distortion
 
 # Download and Install
 
-Download PTDR.vst3.zip and extract it. Copy the obtained PTDR.vst3 to the directory `C:\Program Files\Common Files\VST3`
+Click to [release](https://github.com/FUS-37/PTDR/releases/tag/1.0.0). Download PTDR.vst3.zip and extract it. Copy the obtained PTDR.vst3 to the directory `C:\Program Files\Common Files\VST3`
+
+# Compilation and Construction
+
+Since my computer only has the windows system, if you need vst plugins for other systems, you can consider compiling them yourself.
+
+Configure the development environment
+
+You need to check the official documentation of iplug2 [macos](https://github.com/iPlug2/iPlug2/wiki/01_Getting_started_mac_ios) /  [windows](https://github.com/iPlug2/iPlug2/wiki/02_Getting_started_windows)
+
+2. Download the source code and compile it by yourself
 
 # Plugin Usage Method
 Currently, this plugin has four modes: bypass/soft/flat/harsh
